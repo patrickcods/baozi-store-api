@@ -22,7 +22,7 @@ Projeto desenvolvido como Atividade Prática da disciplina de **Desenvolvimento 
 O projeto foi construído seguindo o padrão arquitetural **MVC (Model-View-Controller)** e a divisão em pacotes exigida:
 
 ```text
-src/main/java/com/baozistore/api/
-├── controller/       # Camada de Controladores REST (Endpoints)
-├── model/            # Entidades JPA (Cliente, Produto, Pedido)
+src/main/java/com/example/demo/
+├── controller/       # Camada de Controladores REST
+├── model/            # Entidades JPA
 └── repository/       # Interfaces Spring Data JPA
