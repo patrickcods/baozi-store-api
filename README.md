@@ -2,7 +2,7 @@
 
 API REST desenvolvida para o gerenciamento básico de clientes, produtos e pedidos da **Baozi Store**, uma loja especializada em pães chineses artesanais. 
 
-Projeto desenvolvido como Atividade Prática da disciplina de **Desenvolvimento Web Back-End**.
+Projeto desenvolvido como Atividade Prática da disciplina de **Desenvolvimento Web Back-End - Java**.
 
 ---
 
